@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "OLpc7Evvy8RdwG+9CFACXoL7u5A6K7DLpHJbDfXmB6I=",
+  "Source": "ApiContratos",
+  "BasePath": "_content/ApiContratos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiContratos\\wwwroot",
+      "Source": "ApiContratos",
+      "ContentRoot": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\",
+      "BasePath": "_content/ApiContratos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\app.js",
+      "SourceId": "ApiContratos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\",
+      "BasePath": "_content/ApiContratos",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\index.html",
+      "SourceId": "ApiContratos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\",
+      "BasePath": "_content/ApiContratos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\style.css",
+      "SourceId": "ApiContratos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MATHEUSPACHECOPIRES\\Pictures\\ApiContratos-main\\wwwroot\\",
+      "BasePath": "_content/ApiContratos",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
