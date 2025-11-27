@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xlbH0E2WOw6vgb7Zd0nfM7r0YzJPd6FPPSGqFKn63mw=",
+  "Hash": "1MT8fg0Ui7tITP7Myx+uIc2v7xBMMS7uoMNqnDqhPOU=",
   "Source": "ApiContratos",
   "BasePath": "_content/ApiContratos",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ApiContratos\\wwwroot",
       "Source": "ApiContratos",
-      "ContentRoot": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\",
       "BasePath": "_content/ApiContratos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\app.js",
+      "Identity": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\app.js",
       "SourceId": "ApiContratos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\",
       "BasePath": "_content/ApiContratos",
       "RelativePath": "app.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\app.js"
     },
     {
-      "Identity": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\index.html",
       "SourceId": "ApiContratos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\",
       "BasePath": "_content/ApiContratos",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\style.css",
       "SourceId": "ApiContratos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathc\\API\\ApiContratos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mathc\\ApiContratosA1\\wwwroot\\",
       "BasePath": "_content/ApiContratos",
       "RelativePath": "style.css",
       "AssetKind": "All",
